@@ -8,3 +8,6 @@ git add (file names)
 git commit -m "(committed message)
 git push -u origin master
 git remote add origin master (url)
+
+Branching in Git means literally branching off of the main code to work in isolation. This means you're free to write code and roll back changes if you need to.If you are happy you can merge it to another branch
+
